@@ -1,0 +1,5 @@
+.sidebar { min-width:200px; }
+.sidebar a { color:#fff; display:block; margin:10px 0; text-decoration:none; }
+.sidebar a:hover { background-color:#495057; padding-left:10px; border-radius:5px; }
+.present { background-color:#d4edda; }
+.absent { background-color:#f8d7da; }
